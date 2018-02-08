@@ -1,0 +1,2822 @@
+{
+  "timestamp" : 1517017322930,
+  "code" : 200,
+  "message" : "data success",
+  "path" : "http://localhost:9090/admin/createAddrJSON",
+  "method" : "GET",
+  "data" : [ {
+    "id" : 110000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "北京市",
+    "fullName" : "北京市",
+    "addrList" : [ {
+      "id" : 110100,
+      "pid" : 110000,
+      "layer" : 2,
+      "name" : "北京市市辖区",
+      "fullName" : "北京市市辖区",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 120000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "天津市",
+    "fullName" : "天津市",
+    "addrList" : [ {
+      "id" : 120100,
+      "pid" : 120000,
+      "layer" : 2,
+      "name" : "天津市市辖区",
+      "fullName" : "天津市市辖区",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 130000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "河北省",
+    "fullName" : "河北省",
+    "addrList" : [ {
+      "id" : 130100,
+      "pid" : 130000,
+      "layer" : 2,
+      "name" : "石家庄市",
+      "fullName" : "河北省石家庄市",
+      "addrList" : [ ]
+    }, {
+      "id" : 130200,
+      "pid" : 130000,
+      "layer" : 2,
+      "name" : "唐山市",
+      "fullName" : "河北省唐山市",
+      "addrList" : [ ]
+    }, {
+      "id" : 130300,
+      "pid" : 130000,
+      "layer" : 2,
+      "name" : "秦皇岛市",
+      "fullName" : "河北省秦皇岛市",
+      "addrList" : [ ]
+    }, {
+      "id" : 130400,
+      "pid" : 130000,
+      "layer" : 2,
+      "name" : "邯郸市",
+      "fullName" : "河北省邯郸市",
+      "addrList" : [ ]
+    }, {
+      "id" : 130500,
+      "pid" : 130000,
+      "layer" : 2,
+      "name" : "邢台市",
+      "fullName" : "河北省邢台市",
+      "addrList" : [ ]
+    }, {
+      "id" : 130600,
+      "pid" : 130000,
+      "layer" : 2,
+      "name" : "保定市",
+      "fullName" : "河北省保定市",
+      "addrList" : [ ]
+    }, {
+      "id" : 130700,
+      "pid" : 130000,
+      "layer" : 2,
+      "name" : "张家口市",
+      "fullName" : "河北省张家口市",
+      "addrList" : [ ]
+    }, {
+      "id" : 130800,
+      "pid" : 130000,
+      "layer" : 2,
+      "name" : "承德市",
+      "fullName" : "河北省承德市",
+      "addrList" : [ ]
+    }, {
+      "id" : 130900,
+      "pid" : 130000,
+      "layer" : 2,
+      "name" : "沧州市",
+      "fullName" : "河北省沧州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 131000,
+      "pid" : 130000,
+      "layer" : 2,
+      "name" : "廊坊市",
+      "fullName" : "河北省廊坊市",
+      "addrList" : [ ]
+    }, {
+      "id" : 131100,
+      "pid" : 130000,
+      "layer" : 2,
+      "name" : "衡水市",
+      "fullName" : "河北省衡水市",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 140000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "山西省",
+    "fullName" : "山西省",
+    "addrList" : [ {
+      "id" : 140100,
+      "pid" : 140000,
+      "layer" : 2,
+      "name" : "太原市",
+      "fullName" : "山西省太原市",
+      "addrList" : [ ]
+    }, {
+      "id" : 140200,
+      "pid" : 140000,
+      "layer" : 2,
+      "name" : "大同市",
+      "fullName" : "山西省大同市",
+      "addrList" : [ ]
+    }, {
+      "id" : 140300,
+      "pid" : 140000,
+      "layer" : 2,
+      "name" : "阳泉市",
+      "fullName" : "山西省阳泉市",
+      "addrList" : [ ]
+    }, {
+      "id" : 140400,
+      "pid" : 140000,
+      "layer" : 2,
+      "name" : "长治市",
+      "fullName" : "山西省长治市",
+      "addrList" : [ ]
+    }, {
+      "id" : 140500,
+      "pid" : 140000,
+      "layer" : 2,
+      "name" : "晋城市",
+      "fullName" : "山西省晋城市",
+      "addrList" : [ ]
+    }, {
+      "id" : 140600,
+      "pid" : 140000,
+      "layer" : 2,
+      "name" : "朔州市",
+      "fullName" : "山西省朔州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 140700,
+      "pid" : 140000,
+      "layer" : 2,
+      "name" : "晋中市",
+      "fullName" : "山西省晋中市",
+      "addrList" : [ ]
+    }, {
+      "id" : 140800,
+      "pid" : 140000,
+      "layer" : 2,
+      "name" : "运城市",
+      "fullName" : "山西省运城市",
+      "addrList" : [ ]
+    }, {
+      "id" : 140900,
+      "pid" : 140000,
+      "layer" : 2,
+      "name" : "忻州市",
+      "fullName" : "山西省忻州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 141000,
+      "pid" : 140000,
+      "layer" : 2,
+      "name" : "临汾市",
+      "fullName" : "山西省临汾市",
+      "addrList" : [ ]
+    }, {
+      "id" : 141100,
+      "pid" : 140000,
+      "layer" : 2,
+      "name" : "吕梁市",
+      "fullName" : "山西省吕梁市",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 150000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "内蒙古自治区",
+    "fullName" : "内蒙古自治区",
+    "addrList" : [ {
+      "id" : 150100,
+      "pid" : 150000,
+      "layer" : 2,
+      "name" : "呼和浩特市",
+      "fullName" : "内蒙古自治区呼和浩特市",
+      "addrList" : [ ]
+    }, {
+      "id" : 150200,
+      "pid" : 150000,
+      "layer" : 2,
+      "name" : "包头市",
+      "fullName" : "内蒙古自治区包头市",
+      "addrList" : [ ]
+    }, {
+      "id" : 150300,
+      "pid" : 150000,
+      "layer" : 2,
+      "name" : "乌海市",
+      "fullName" : "内蒙古自治区乌海市",
+      "addrList" : [ ]
+    }, {
+      "id" : 150400,
+      "pid" : 150000,
+      "layer" : 2,
+      "name" : "赤峰市",
+      "fullName" : "内蒙古自治区赤峰市",
+      "addrList" : [ ]
+    }, {
+      "id" : 150500,
+      "pid" : 150000,
+      "layer" : 2,
+      "name" : "通辽市",
+      "fullName" : "内蒙古自治区通辽市",
+      "addrList" : [ ]
+    }, {
+      "id" : 150600,
+      "pid" : 150000,
+      "layer" : 2,
+      "name" : "鄂尔多斯市",
+      "fullName" : "内蒙古自治区鄂尔多斯市",
+      "addrList" : [ ]
+    }, {
+      "id" : 150700,
+      "pid" : 150000,
+      "layer" : 2,
+      "name" : "呼伦贝尔市",
+      "fullName" : "内蒙古自治区呼伦贝尔市",
+      "addrList" : [ ]
+    }, {
+      "id" : 150800,
+      "pid" : 150000,
+      "layer" : 2,
+      "name" : "巴彦淖尔市",
+      "fullName" : "内蒙古自治区巴彦淖尔市",
+      "addrList" : [ ]
+    }, {
+      "id" : 150900,
+      "pid" : 150000,
+      "layer" : 2,
+      "name" : "乌兰察布市",
+      "fullName" : "内蒙古自治区乌兰察布市",
+      "addrList" : [ ]
+    }, {
+      "id" : 152200,
+      "pid" : 150000,
+      "layer" : 2,
+      "name" : "兴安盟",
+      "fullName" : "内蒙古自治区兴安盟",
+      "addrList" : [ ]
+    }, {
+      "id" : 152500,
+      "pid" : 150000,
+      "layer" : 2,
+      "name" : "锡林郭勒盟",
+      "fullName" : "内蒙古自治区锡林郭勒盟",
+      "addrList" : [ ]
+    }, {
+      "id" : 152900,
+      "pid" : 150000,
+      "layer" : 2,
+      "name" : "阿拉善盟",
+      "fullName" : "内蒙古自治区阿拉善盟",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 210000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "辽宁省",
+    "fullName" : "辽宁省",
+    "addrList" : [ {
+      "id" : 210100,
+      "pid" : 210000,
+      "layer" : 2,
+      "name" : "沈阳市",
+      "fullName" : "辽宁省沈阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 210200,
+      "pid" : 210000,
+      "layer" : 2,
+      "name" : "大连市",
+      "fullName" : "辽宁省大连市",
+      "addrList" : [ ]
+    }, {
+      "id" : 210300,
+      "pid" : 210000,
+      "layer" : 2,
+      "name" : "鞍山市",
+      "fullName" : "辽宁省鞍山市",
+      "addrList" : [ ]
+    }, {
+      "id" : 210400,
+      "pid" : 210000,
+      "layer" : 2,
+      "name" : "抚顺市",
+      "fullName" : "辽宁省抚顺市",
+      "addrList" : [ ]
+    }, {
+      "id" : 210500,
+      "pid" : 210000,
+      "layer" : 2,
+      "name" : "本溪市",
+      "fullName" : "辽宁省本溪市",
+      "addrList" : [ ]
+    }, {
+      "id" : 210600,
+      "pid" : 210000,
+      "layer" : 2,
+      "name" : "丹东市",
+      "fullName" : "辽宁省丹东市",
+      "addrList" : [ ]
+    }, {
+      "id" : 210700,
+      "pid" : 210000,
+      "layer" : 2,
+      "name" : "锦州市",
+      "fullName" : "辽宁省锦州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 210800,
+      "pid" : 210000,
+      "layer" : 2,
+      "name" : "营口市",
+      "fullName" : "辽宁省营口市",
+      "addrList" : [ ]
+    }, {
+      "id" : 210900,
+      "pid" : 210000,
+      "layer" : 2,
+      "name" : "阜新市",
+      "fullName" : "辽宁省阜新市",
+      "addrList" : [ ]
+    }, {
+      "id" : 211000,
+      "pid" : 210000,
+      "layer" : 2,
+      "name" : "辽阳市",
+      "fullName" : "辽宁省辽阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 211100,
+      "pid" : 210000,
+      "layer" : 2,
+      "name" : "盘锦市",
+      "fullName" : "辽宁省盘锦市",
+      "addrList" : [ ]
+    }, {
+      "id" : 211200,
+      "pid" : 210000,
+      "layer" : 2,
+      "name" : "铁岭市",
+      "fullName" : "辽宁省铁岭市",
+      "addrList" : [ ]
+    }, {
+      "id" : 211300,
+      "pid" : 210000,
+      "layer" : 2,
+      "name" : "朝阳市",
+      "fullName" : "辽宁省朝阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 211400,
+      "pid" : 210000,
+      "layer" : 2,
+      "name" : "葫芦岛市",
+      "fullName" : "辽宁省葫芦岛市",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 220000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "吉林省",
+    "fullName" : "吉林省",
+    "addrList" : [ {
+      "id" : 220100,
+      "pid" : 220000,
+      "layer" : 2,
+      "name" : "长春市",
+      "fullName" : "吉林省长春市",
+      "addrList" : [ ]
+    }, {
+      "id" : 220200,
+      "pid" : 220000,
+      "layer" : 2,
+      "name" : "吉林市",
+      "fullName" : "吉林省吉林市",
+      "addrList" : [ ]
+    }, {
+      "id" : 220300,
+      "pid" : 220000,
+      "layer" : 2,
+      "name" : "四平市",
+      "fullName" : "吉林省四平市",
+      "addrList" : [ ]
+    }, {
+      "id" : 220400,
+      "pid" : 220000,
+      "layer" : 2,
+      "name" : "辽源市",
+      "fullName" : "吉林省辽源市",
+      "addrList" : [ ]
+    }, {
+      "id" : 220500,
+      "pid" : 220000,
+      "layer" : 2,
+      "name" : "通化市",
+      "fullName" : "吉林省通化市",
+      "addrList" : [ ]
+    }, {
+      "id" : 220600,
+      "pid" : 220000,
+      "layer" : 2,
+      "name" : "白山市",
+      "fullName" : "吉林省白山市",
+      "addrList" : [ ]
+    }, {
+      "id" : 220700,
+      "pid" : 220000,
+      "layer" : 2,
+      "name" : "松原市",
+      "fullName" : "吉林省松原市",
+      "addrList" : [ ]
+    }, {
+      "id" : 220800,
+      "pid" : 220000,
+      "layer" : 2,
+      "name" : "白城市",
+      "fullName" : "吉林省白城市",
+      "addrList" : [ ]
+    }, {
+      "id" : 222400,
+      "pid" : 220000,
+      "layer" : 2,
+      "name" : "延边朝鲜族自治州",
+      "fullName" : "吉林省延边朝鲜族自治州",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 230000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "黑龙江省",
+    "fullName" : "黑龙江省",
+    "addrList" : [ {
+      "id" : 230100,
+      "pid" : 230000,
+      "layer" : 2,
+      "name" : "哈尔滨市",
+      "fullName" : "黑龙江省哈尔滨市",
+      "addrList" : [ ]
+    }, {
+      "id" : 230200,
+      "pid" : 230000,
+      "layer" : 2,
+      "name" : "齐齐哈尔市",
+      "fullName" : "黑龙江省齐齐哈尔市",
+      "addrList" : [ ]
+    }, {
+      "id" : 230300,
+      "pid" : 230000,
+      "layer" : 2,
+      "name" : "鸡西市",
+      "fullName" : "黑龙江省鸡西市",
+      "addrList" : [ ]
+    }, {
+      "id" : 230400,
+      "pid" : 230000,
+      "layer" : 2,
+      "name" : "鹤岗市",
+      "fullName" : "黑龙江省鹤岗市",
+      "addrList" : [ ]
+    }, {
+      "id" : 230500,
+      "pid" : 230000,
+      "layer" : 2,
+      "name" : "双鸭山市",
+      "fullName" : "黑龙江省双鸭山市",
+      "addrList" : [ ]
+    }, {
+      "id" : 230600,
+      "pid" : 230000,
+      "layer" : 2,
+      "name" : "大庆市",
+      "fullName" : "黑龙江省大庆市",
+      "addrList" : [ ]
+    }, {
+      "id" : 230700,
+      "pid" : 230000,
+      "layer" : 2,
+      "name" : "伊春市",
+      "fullName" : "黑龙江省伊春市",
+      "addrList" : [ ]
+    }, {
+      "id" : 230800,
+      "pid" : 230000,
+      "layer" : 2,
+      "name" : "佳木斯市",
+      "fullName" : "黑龙江省佳木斯市",
+      "addrList" : [ ]
+    }, {
+      "id" : 230900,
+      "pid" : 230000,
+      "layer" : 2,
+      "name" : "七台河市",
+      "fullName" : "黑龙江省七台河市",
+      "addrList" : [ ]
+    }, {
+      "id" : 231000,
+      "pid" : 230000,
+      "layer" : 2,
+      "name" : "牡丹江市",
+      "fullName" : "黑龙江省牡丹江市",
+      "addrList" : [ ]
+    }, {
+      "id" : 231100,
+      "pid" : 230000,
+      "layer" : 2,
+      "name" : "黑河市",
+      "fullName" : "黑龙江省黑河市",
+      "addrList" : [ ]
+    }, {
+      "id" : 231200,
+      "pid" : 230000,
+      "layer" : 2,
+      "name" : "绥化市",
+      "fullName" : "黑龙江省绥化市",
+      "addrList" : [ ]
+    }, {
+      "id" : 232700,
+      "pid" : 230000,
+      "layer" : 2,
+      "name" : "大兴安岭地区",
+      "fullName" : "黑龙江省大兴安岭地区",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 310000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "上海市",
+    "fullName" : "上海市",
+    "addrList" : [ {
+      "id" : 310100,
+      "pid" : 310000,
+      "layer" : 2,
+      "name" : "上海市市辖区",
+      "fullName" : "上海市市辖区",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 320000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "江苏省",
+    "fullName" : "江苏省",
+    "addrList" : [ {
+      "id" : 320100,
+      "pid" : 320000,
+      "layer" : 2,
+      "name" : "南京市",
+      "fullName" : "江苏省南京市",
+      "addrList" : [ ]
+    }, {
+      "id" : 320200,
+      "pid" : 320000,
+      "layer" : 2,
+      "name" : "无锡市",
+      "fullName" : "江苏省无锡市",
+      "addrList" : [ ]
+    }, {
+      "id" : 320300,
+      "pid" : 320000,
+      "layer" : 2,
+      "name" : "徐州市",
+      "fullName" : "江苏省徐州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 320400,
+      "pid" : 320000,
+      "layer" : 2,
+      "name" : "常州市",
+      "fullName" : "江苏省常州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 320500,
+      "pid" : 320000,
+      "layer" : 2,
+      "name" : "苏州市",
+      "fullName" : "江苏省苏州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 320600,
+      "pid" : 320000,
+      "layer" : 2,
+      "name" : "南通市",
+      "fullName" : "江苏省南通市",
+      "addrList" : [ ]
+    }, {
+      "id" : 320700,
+      "pid" : 320000,
+      "layer" : 2,
+      "name" : "连云港市",
+      "fullName" : "江苏省连云港市",
+      "addrList" : [ ]
+    }, {
+      "id" : 320800,
+      "pid" : 320000,
+      "layer" : 2,
+      "name" : "淮安市",
+      "fullName" : "江苏省淮安市",
+      "addrList" : [ ]
+    }, {
+      "id" : 320900,
+      "pid" : 320000,
+      "layer" : 2,
+      "name" : "盐城市",
+      "fullName" : "江苏省盐城市",
+      "addrList" : [ ]
+    }, {
+      "id" : 321000,
+      "pid" : 320000,
+      "layer" : 2,
+      "name" : "扬州市",
+      "fullName" : "江苏省扬州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 321100,
+      "pid" : 320000,
+      "layer" : 2,
+      "name" : "镇江市",
+      "fullName" : "江苏省镇江市",
+      "addrList" : [ ]
+    }, {
+      "id" : 321200,
+      "pid" : 320000,
+      "layer" : 2,
+      "name" : "泰州市",
+      "fullName" : "江苏省泰州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 321300,
+      "pid" : 320000,
+      "layer" : 2,
+      "name" : "宿迁市",
+      "fullName" : "江苏省宿迁市",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 330000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "浙江省",
+    "fullName" : "浙江省",
+    "addrList" : [ {
+      "id" : 330100,
+      "pid" : 330000,
+      "layer" : 2,
+      "name" : "杭州市",
+      "fullName" : "浙江省杭州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 330200,
+      "pid" : 330000,
+      "layer" : 2,
+      "name" : "宁波市",
+      "fullName" : "浙江省宁波市",
+      "addrList" : [ ]
+    }, {
+      "id" : 330300,
+      "pid" : 330000,
+      "layer" : 2,
+      "name" : "温州市",
+      "fullName" : "浙江省温州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 330400,
+      "pid" : 330000,
+      "layer" : 2,
+      "name" : "嘉兴市",
+      "fullName" : "浙江省嘉兴市",
+      "addrList" : [ ]
+    }, {
+      "id" : 330500,
+      "pid" : 330000,
+      "layer" : 2,
+      "name" : "湖州市",
+      "fullName" : "浙江省湖州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 330600,
+      "pid" : 330000,
+      "layer" : 2,
+      "name" : "绍兴市",
+      "fullName" : "浙江省绍兴市",
+      "addrList" : [ ]
+    }, {
+      "id" : 330700,
+      "pid" : 330000,
+      "layer" : 2,
+      "name" : "金华市",
+      "fullName" : "浙江省金华市",
+      "addrList" : [ ]
+    }, {
+      "id" : 330800,
+      "pid" : 330000,
+      "layer" : 2,
+      "name" : "衢州市",
+      "fullName" : "浙江省衢州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 330900,
+      "pid" : 330000,
+      "layer" : 2,
+      "name" : "舟山市",
+      "fullName" : "浙江省舟山市",
+      "addrList" : [ ]
+    }, {
+      "id" : 331000,
+      "pid" : 330000,
+      "layer" : 2,
+      "name" : "台州市",
+      "fullName" : "浙江省台州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 331100,
+      "pid" : 330000,
+      "layer" : 2,
+      "name" : "丽水市",
+      "fullName" : "浙江省丽水市",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 340000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "安徽省",
+    "fullName" : "安徽省",
+    "addrList" : [ {
+      "id" : 340100,
+      "pid" : 340000,
+      "layer" : 2,
+      "name" : "合肥市",
+      "fullName" : "安徽省合肥市",
+      "addrList" : [ ]
+    }, {
+      "id" : 340200,
+      "pid" : 340000,
+      "layer" : 2,
+      "name" : "芜湖市",
+      "fullName" : "安徽省芜湖市",
+      "addrList" : [ ]
+    }, {
+      "id" : 340300,
+      "pid" : 340000,
+      "layer" : 2,
+      "name" : "蚌埠市",
+      "fullName" : "安徽省蚌埠市",
+      "addrList" : [ ]
+    }, {
+      "id" : 340400,
+      "pid" : 340000,
+      "layer" : 2,
+      "name" : "淮南市",
+      "fullName" : "安徽省淮南市",
+      "addrList" : [ ]
+    }, {
+      "id" : 340500,
+      "pid" : 340000,
+      "layer" : 2,
+      "name" : "马鞍山市",
+      "fullName" : "安徽省马鞍山市",
+      "addrList" : [ ]
+    }, {
+      "id" : 340600,
+      "pid" : 340000,
+      "layer" : 2,
+      "name" : "淮北市",
+      "fullName" : "安徽省淮北市",
+      "addrList" : [ ]
+    }, {
+      "id" : 340700,
+      "pid" : 340000,
+      "layer" : 2,
+      "name" : "铜陵市",
+      "fullName" : "安徽省铜陵市",
+      "addrList" : [ ]
+    }, {
+      "id" : 340800,
+      "pid" : 340000,
+      "layer" : 2,
+      "name" : "安庆市",
+      "fullName" : "安徽省安庆市",
+      "addrList" : [ ]
+    }, {
+      "id" : 341000,
+      "pid" : 340000,
+      "layer" : 2,
+      "name" : "黄山市",
+      "fullName" : "安徽省黄山市",
+      "addrList" : [ ]
+    }, {
+      "id" : 341100,
+      "pid" : 340000,
+      "layer" : 2,
+      "name" : "滁州市",
+      "fullName" : "安徽省滁州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 341200,
+      "pid" : 340000,
+      "layer" : 2,
+      "name" : "阜阳市",
+      "fullName" : "安徽省阜阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 341300,
+      "pid" : 340000,
+      "layer" : 2,
+      "name" : "宿州市",
+      "fullName" : "安徽省宿州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 341500,
+      "pid" : 340000,
+      "layer" : 2,
+      "name" : "六安市",
+      "fullName" : "安徽省六安市",
+      "addrList" : [ ]
+    }, {
+      "id" : 341600,
+      "pid" : 340000,
+      "layer" : 2,
+      "name" : "亳州市",
+      "fullName" : "安徽省亳州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 341700,
+      "pid" : 340000,
+      "layer" : 2,
+      "name" : "池州市",
+      "fullName" : "安徽省池州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 341800,
+      "pid" : 340000,
+      "layer" : 2,
+      "name" : "宣城市",
+      "fullName" : "安徽省宣城市",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 350000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "福建省",
+    "fullName" : "福建省",
+    "addrList" : [ {
+      "id" : 350100,
+      "pid" : 350000,
+      "layer" : 2,
+      "name" : "福州市",
+      "fullName" : "福建省福州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 350200,
+      "pid" : 350000,
+      "layer" : 2,
+      "name" : "厦门市",
+      "fullName" : "福建省厦门市",
+      "addrList" : [ ]
+    }, {
+      "id" : 350300,
+      "pid" : 350000,
+      "layer" : 2,
+      "name" : "莆田市",
+      "fullName" : "福建省莆田市",
+      "addrList" : [ ]
+    }, {
+      "id" : 350400,
+      "pid" : 350000,
+      "layer" : 2,
+      "name" : "三明市",
+      "fullName" : "福建省三明市",
+      "addrList" : [ ]
+    }, {
+      "id" : 350500,
+      "pid" : 350000,
+      "layer" : 2,
+      "name" : "泉州市",
+      "fullName" : "福建省泉州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 350600,
+      "pid" : 350000,
+      "layer" : 2,
+      "name" : "漳州市",
+      "fullName" : "福建省漳州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 350700,
+      "pid" : 350000,
+      "layer" : 2,
+      "name" : "南平市",
+      "fullName" : "福建省南平市",
+      "addrList" : [ ]
+    }, {
+      "id" : 350800,
+      "pid" : 350000,
+      "layer" : 2,
+      "name" : "龙岩市",
+      "fullName" : "福建省龙岩市",
+      "addrList" : [ ]
+    }, {
+      "id" : 350900,
+      "pid" : 350000,
+      "layer" : 2,
+      "name" : "宁德市",
+      "fullName" : "福建省宁德市",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 360000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "江西省",
+    "fullName" : "江西省",
+    "addrList" : [ {
+      "id" : 360100,
+      "pid" : 360000,
+      "layer" : 2,
+      "name" : "南昌市",
+      "fullName" : "江西省南昌市",
+      "addrList" : [ ]
+    }, {
+      "id" : 360200,
+      "pid" : 360000,
+      "layer" : 2,
+      "name" : "景德镇市",
+      "fullName" : "江西省景德镇市",
+      "addrList" : [ ]
+    }, {
+      "id" : 360300,
+      "pid" : 360000,
+      "layer" : 2,
+      "name" : "萍乡市",
+      "fullName" : "江西省萍乡市",
+      "addrList" : [ ]
+    }, {
+      "id" : 360400,
+      "pid" : 360000,
+      "layer" : 2,
+      "name" : "九江市",
+      "fullName" : "江西省九江市",
+      "addrList" : [ ]
+    }, {
+      "id" : 360500,
+      "pid" : 360000,
+      "layer" : 2,
+      "name" : "新余市",
+      "fullName" : "江西省新余市",
+      "addrList" : [ ]
+    }, {
+      "id" : 360600,
+      "pid" : 360000,
+      "layer" : 2,
+      "name" : "鹰潭市",
+      "fullName" : "江西省鹰潭市",
+      "addrList" : [ ]
+    }, {
+      "id" : 360700,
+      "pid" : 360000,
+      "layer" : 2,
+      "name" : "赣州市",
+      "fullName" : "江西省赣州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 360800,
+      "pid" : 360000,
+      "layer" : 2,
+      "name" : "吉安市",
+      "fullName" : "江西省吉安市",
+      "addrList" : [ ]
+    }, {
+      "id" : 360900,
+      "pid" : 360000,
+      "layer" : 2,
+      "name" : "宜春市",
+      "fullName" : "江西省宜春市",
+      "addrList" : [ ]
+    }, {
+      "id" : 361000,
+      "pid" : 360000,
+      "layer" : 2,
+      "name" : "抚州市",
+      "fullName" : "江西省抚州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 361100,
+      "pid" : 360000,
+      "layer" : 2,
+      "name" : "上饶市",
+      "fullName" : "江西省上饶市",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 370000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "山东省",
+    "fullName" : "山东省",
+    "addrList" : [ {
+      "id" : 370100,
+      "pid" : 370000,
+      "layer" : 2,
+      "name" : "济南市",
+      "fullName" : "山东省济南市",
+      "addrList" : [ ]
+    }, {
+      "id" : 370200,
+      "pid" : 370000,
+      "layer" : 2,
+      "name" : "青岛市",
+      "fullName" : "山东省青岛市",
+      "addrList" : [ ]
+    }, {
+      "id" : 370300,
+      "pid" : 370000,
+      "layer" : 2,
+      "name" : "淄博市",
+      "fullName" : "山东省淄博市",
+      "addrList" : [ ]
+    }, {
+      "id" : 370400,
+      "pid" : 370000,
+      "layer" : 2,
+      "name" : "枣庄市",
+      "fullName" : "山东省枣庄市",
+      "addrList" : [ ]
+    }, {
+      "id" : 370500,
+      "pid" : 370000,
+      "layer" : 2,
+      "name" : "东营市",
+      "fullName" : "山东省东营市",
+      "addrList" : [ ]
+    }, {
+      "id" : 370600,
+      "pid" : 370000,
+      "layer" : 2,
+      "name" : "烟台市",
+      "fullName" : "山东省烟台市",
+      "addrList" : [ ]
+    }, {
+      "id" : 370700,
+      "pid" : 370000,
+      "layer" : 2,
+      "name" : "潍坊市",
+      "fullName" : "山东省潍坊市",
+      "addrList" : [ ]
+    }, {
+      "id" : 370800,
+      "pid" : 370000,
+      "layer" : 2,
+      "name" : "济宁市",
+      "fullName" : "山东省济宁市",
+      "addrList" : [ ]
+    }, {
+      "id" : 370900,
+      "pid" : 370000,
+      "layer" : 2,
+      "name" : "泰安市",
+      "fullName" : "山东省泰安市",
+      "addrList" : [ ]
+    }, {
+      "id" : 371000,
+      "pid" : 370000,
+      "layer" : 2,
+      "name" : "威海市",
+      "fullName" : "山东省威海市",
+      "addrList" : [ ]
+    }, {
+      "id" : 371100,
+      "pid" : 370000,
+      "layer" : 2,
+      "name" : "日照市",
+      "fullName" : "山东省日照市",
+      "addrList" : [ ]
+    }, {
+      "id" : 371200,
+      "pid" : 370000,
+      "layer" : 2,
+      "name" : "莱芜市",
+      "fullName" : "山东省莱芜市",
+      "addrList" : [ ]
+    }, {
+      "id" : 371300,
+      "pid" : 370000,
+      "layer" : 2,
+      "name" : "临沂市",
+      "fullName" : "山东省临沂市",
+      "addrList" : [ ]
+    }, {
+      "id" : 371400,
+      "pid" : 370000,
+      "layer" : 2,
+      "name" : "德州市",
+      "fullName" : "山东省德州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 371500,
+      "pid" : 370000,
+      "layer" : 2,
+      "name" : "聊城市",
+      "fullName" : "山东省聊城市",
+      "addrList" : [ ]
+    }, {
+      "id" : 371600,
+      "pid" : 370000,
+      "layer" : 2,
+      "name" : "滨州市",
+      "fullName" : "山东省滨州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 371700,
+      "pid" : 370000,
+      "layer" : 2,
+      "name" : "菏泽市",
+      "fullName" : "山东省菏泽市",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 410000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "河南省",
+    "fullName" : "河南省",
+    "addrList" : [ {
+      "id" : 410100,
+      "pid" : 410000,
+      "layer" : 2,
+      "name" : "郑州市",
+      "fullName" : "河南省郑州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 410200,
+      "pid" : 410000,
+      "layer" : 2,
+      "name" : "开封市",
+      "fullName" : "河南省开封市",
+      "addrList" : [ ]
+    }, {
+      "id" : 410300,
+      "pid" : 410000,
+      "layer" : 2,
+      "name" : "洛阳市",
+      "fullName" : "河南省洛阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 410400,
+      "pid" : 410000,
+      "layer" : 2,
+      "name" : "平顶山市",
+      "fullName" : "河南省平顶山市",
+      "addrList" : [ ]
+    }, {
+      "id" : 410500,
+      "pid" : 410000,
+      "layer" : 2,
+      "name" : "安阳市",
+      "fullName" : "河南省安阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 410600,
+      "pid" : 410000,
+      "layer" : 2,
+      "name" : "鹤壁市",
+      "fullName" : "河南省鹤壁市",
+      "addrList" : [ ]
+    }, {
+      "id" : 410700,
+      "pid" : 410000,
+      "layer" : 2,
+      "name" : "新乡市",
+      "fullName" : "河南省新乡市",
+      "addrList" : [ ]
+    }, {
+      "id" : 410800,
+      "pid" : 410000,
+      "layer" : 2,
+      "name" : "焦作市",
+      "fullName" : "河南省焦作市",
+      "addrList" : [ ]
+    }, {
+      "id" : 410900,
+      "pid" : 410000,
+      "layer" : 2,
+      "name" : "濮阳市",
+      "fullName" : "河南省濮阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 411000,
+      "pid" : 410000,
+      "layer" : 2,
+      "name" : "许昌市",
+      "fullName" : "河南省许昌市",
+      "addrList" : [ ]
+    }, {
+      "id" : 411100,
+      "pid" : 410000,
+      "layer" : 2,
+      "name" : "漯河市",
+      "fullName" : "河南省漯河市",
+      "addrList" : [ ]
+    }, {
+      "id" : 411200,
+      "pid" : 410000,
+      "layer" : 2,
+      "name" : "三门峡市",
+      "fullName" : "河南省三门峡市",
+      "addrList" : [ ]
+    }, {
+      "id" : 411300,
+      "pid" : 410000,
+      "layer" : 2,
+      "name" : "南阳市",
+      "fullName" : "河南省南阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 411400,
+      "pid" : 410000,
+      "layer" : 2,
+      "name" : "商丘市",
+      "fullName" : "河南省商丘市",
+      "addrList" : [ ]
+    }, {
+      "id" : 411500,
+      "pid" : 410000,
+      "layer" : 2,
+      "name" : "信阳市",
+      "fullName" : "河南省信阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 411600,
+      "pid" : 410000,
+      "layer" : 2,
+      "name" : "周口市",
+      "fullName" : "河南省周口市",
+      "addrList" : [ ]
+    }, {
+      "id" : 411700,
+      "pid" : 410000,
+      "layer" : 2,
+      "name" : "驻马店市",
+      "fullName" : "河南省驻马店市",
+      "addrList" : [ ]
+    }, {
+      "id" : 419001,
+      "pid" : 410000,
+      "layer" : 2,
+      "name" : "济源市",
+      "fullName" : "河南省济源市",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 420000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "湖北省",
+    "fullName" : "湖北省",
+    "addrList" : [ {
+      "id" : 420100,
+      "pid" : 420000,
+      "layer" : 2,
+      "name" : "武汉市",
+      "fullName" : "湖北省武汉市",
+      "addrList" : [ ]
+    }, {
+      "id" : 420200,
+      "pid" : 420000,
+      "layer" : 2,
+      "name" : "黄石市",
+      "fullName" : "湖北省黄石市",
+      "addrList" : [ ]
+    }, {
+      "id" : 420300,
+      "pid" : 420000,
+      "layer" : 2,
+      "name" : "十堰市",
+      "fullName" : "湖北省十堰市",
+      "addrList" : [ ]
+    }, {
+      "id" : 420500,
+      "pid" : 420000,
+      "layer" : 2,
+      "name" : "宜昌市",
+      "fullName" : "湖北省宜昌市",
+      "addrList" : [ ]
+    }, {
+      "id" : 420600,
+      "pid" : 420000,
+      "layer" : 2,
+      "name" : "襄阳市",
+      "fullName" : "湖北省襄阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 420700,
+      "pid" : 420000,
+      "layer" : 2,
+      "name" : "鄂州市",
+      "fullName" : "湖北省鄂州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 420800,
+      "pid" : 420000,
+      "layer" : 2,
+      "name" : "荆门市",
+      "fullName" : "湖北省荆门市",
+      "addrList" : [ ]
+    }, {
+      "id" : 420900,
+      "pid" : 420000,
+      "layer" : 2,
+      "name" : "孝感市",
+      "fullName" : "湖北省孝感市",
+      "addrList" : [ ]
+    }, {
+      "id" : 421000,
+      "pid" : 420000,
+      "layer" : 2,
+      "name" : "荆州市",
+      "fullName" : "湖北省荆州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 421100,
+      "pid" : 420000,
+      "layer" : 2,
+      "name" : "黄冈市",
+      "fullName" : "湖北省黄冈市",
+      "addrList" : [ ]
+    }, {
+      "id" : 421200,
+      "pid" : 420000,
+      "layer" : 2,
+      "name" : "咸宁市",
+      "fullName" : "湖北省咸宁市",
+      "addrList" : [ ]
+    }, {
+      "id" : 421300,
+      "pid" : 420000,
+      "layer" : 2,
+      "name" : "随州市",
+      "fullName" : "湖北省随州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 422800,
+      "pid" : 420000,
+      "layer" : 2,
+      "name" : "恩施土家族苗族自治州",
+      "fullName" : "湖北省恩施土家族苗族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 429004,
+      "pid" : 420000,
+      "layer" : 2,
+      "name" : "仙桃市",
+      "fullName" : "湖北省仙桃市",
+      "addrList" : [ ]
+    }, {
+      "id" : 429005,
+      "pid" : 420000,
+      "layer" : 2,
+      "name" : "潜江市",
+      "fullName" : "湖北省潜江市",
+      "addrList" : [ ]
+    }, {
+      "id" : 429006,
+      "pid" : 420000,
+      "layer" : 2,
+      "name" : "天门市",
+      "fullName" : "湖北省天门市",
+      "addrList" : [ ]
+    }, {
+      "id" : 429021,
+      "pid" : 420000,
+      "layer" : 2,
+      "name" : "神农架林区",
+      "fullName" : "湖北省神农架林区",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 430000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "湖南省",
+    "fullName" : "湖南省",
+    "addrList" : [ {
+      "id" : 430100,
+      "pid" : 430000,
+      "layer" : 2,
+      "name" : "长沙市",
+      "fullName" : "湖南省长沙市",
+      "addrList" : [ ]
+    }, {
+      "id" : 430200,
+      "pid" : 430000,
+      "layer" : 2,
+      "name" : "株洲市",
+      "fullName" : "湖南省株洲市",
+      "addrList" : [ ]
+    }, {
+      "id" : 430300,
+      "pid" : 430000,
+      "layer" : 2,
+      "name" : "湘潭市",
+      "fullName" : "湖南省湘潭市",
+      "addrList" : [ ]
+    }, {
+      "id" : 430400,
+      "pid" : 430000,
+      "layer" : 2,
+      "name" : "衡阳市",
+      "fullName" : "湖南省衡阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 430500,
+      "pid" : 430000,
+      "layer" : 2,
+      "name" : "邵阳市",
+      "fullName" : "湖南省邵阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 430600,
+      "pid" : 430000,
+      "layer" : 2,
+      "name" : "岳阳市",
+      "fullName" : "湖南省岳阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 430700,
+      "pid" : 430000,
+      "layer" : 2,
+      "name" : "常德市",
+      "fullName" : "湖南省常德市",
+      "addrList" : [ ]
+    }, {
+      "id" : 430800,
+      "pid" : 430000,
+      "layer" : 2,
+      "name" : "张家界市",
+      "fullName" : "湖南省张家界市",
+      "addrList" : [ ]
+    }, {
+      "id" : 430900,
+      "pid" : 430000,
+      "layer" : 2,
+      "name" : "益阳市",
+      "fullName" : "湖南省益阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 431000,
+      "pid" : 430000,
+      "layer" : 2,
+      "name" : "郴州市",
+      "fullName" : "湖南省郴州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 431100,
+      "pid" : 430000,
+      "layer" : 2,
+      "name" : "永州市",
+      "fullName" : "湖南省永州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 431200,
+      "pid" : 430000,
+      "layer" : 2,
+      "name" : "怀化市",
+      "fullName" : "湖南省怀化市",
+      "addrList" : [ ]
+    }, {
+      "id" : 431300,
+      "pid" : 430000,
+      "layer" : 2,
+      "name" : "娄底市",
+      "fullName" : "湖南省娄底市",
+      "addrList" : [ ]
+    }, {
+      "id" : 433100,
+      "pid" : 430000,
+      "layer" : 2,
+      "name" : "湘西土家族苗族自治州",
+      "fullName" : "湖南省湘西土家族苗族自治州",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 440000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "广东省",
+    "fullName" : "广东省",
+    "addrList" : [ {
+      "id" : 440100,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "广州市",
+      "fullName" : "广东省广州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 440200,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "韶关市",
+      "fullName" : "广东省韶关市",
+      "addrList" : [ ]
+    }, {
+      "id" : 440300,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "深圳市",
+      "fullName" : "广东省深圳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 440400,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "珠海市",
+      "fullName" : "广东省珠海市",
+      "addrList" : [ ]
+    }, {
+      "id" : 440500,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "汕头市",
+      "fullName" : "广东省汕头市",
+      "addrList" : [ ]
+    }, {
+      "id" : 440600,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "佛山市",
+      "fullName" : "广东省佛山市",
+      "addrList" : [ ]
+    }, {
+      "id" : 440700,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "江门市",
+      "fullName" : "广东省江门市",
+      "addrList" : [ ]
+    }, {
+      "id" : 440800,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "湛江市",
+      "fullName" : "广东省湛江市",
+      "addrList" : [ ]
+    }, {
+      "id" : 440900,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "茂名市",
+      "fullName" : "广东省茂名市",
+      "addrList" : [ ]
+    }, {
+      "id" : 441200,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "肇庆市",
+      "fullName" : "广东省肇庆市",
+      "addrList" : [ ]
+    }, {
+      "id" : 441300,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "惠州市",
+      "fullName" : "广东省惠州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 441400,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "梅州市",
+      "fullName" : "广东省梅州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 441500,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "汕尾市",
+      "fullName" : "广东省汕尾市",
+      "addrList" : [ ]
+    }, {
+      "id" : 441600,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "河源市",
+      "fullName" : "广东省河源市",
+      "addrList" : [ ]
+    }, {
+      "id" : 441700,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "阳江市",
+      "fullName" : "广东省阳江市",
+      "addrList" : [ ]
+    }, {
+      "id" : 441800,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "清远市",
+      "fullName" : "广东省清远市",
+      "addrList" : [ ]
+    }, {
+      "id" : 441900,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "东莞市",
+      "fullName" : "广东省东莞市",
+      "addrList" : [ ]
+    }, {
+      "id" : 442000,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "中山市",
+      "fullName" : "广东省中山市",
+      "addrList" : [ ]
+    }, {
+      "id" : 445100,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "潮州市",
+      "fullName" : "广东省潮州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 445200,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "揭阳市",
+      "fullName" : "广东省揭阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 445300,
+      "pid" : 440000,
+      "layer" : 2,
+      "name" : "云浮市",
+      "fullName" : "广东省云浮市",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 450000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "广西壮族自治区",
+    "fullName" : "广西壮族自治区",
+    "addrList" : [ {
+      "id" : 450100,
+      "pid" : 450000,
+      "layer" : 2,
+      "name" : "南宁市",
+      "fullName" : "广西壮族自治区南宁市",
+      "addrList" : [ ]
+    }, {
+      "id" : 450200,
+      "pid" : 450000,
+      "layer" : 2,
+      "name" : "柳州市",
+      "fullName" : "广西壮族自治区柳州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 450300,
+      "pid" : 450000,
+      "layer" : 2,
+      "name" : "桂林市",
+      "fullName" : "广西壮族自治区桂林市",
+      "addrList" : [ ]
+    }, {
+      "id" : 450400,
+      "pid" : 450000,
+      "layer" : 2,
+      "name" : "梧州市",
+      "fullName" : "广西壮族自治区梧州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 450500,
+      "pid" : 450000,
+      "layer" : 2,
+      "name" : "北海市",
+      "fullName" : "广西壮族自治区北海市",
+      "addrList" : [ ]
+    }, {
+      "id" : 450600,
+      "pid" : 450000,
+      "layer" : 2,
+      "name" : "防城港市",
+      "fullName" : "广西壮族自治区防城港市",
+      "addrList" : [ ]
+    }, {
+      "id" : 450700,
+      "pid" : 450000,
+      "layer" : 2,
+      "name" : "钦州市",
+      "fullName" : "广西壮族自治区钦州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 450800,
+      "pid" : 450000,
+      "layer" : 2,
+      "name" : "贵港市",
+      "fullName" : "广西壮族自治区贵港市",
+      "addrList" : [ ]
+    }, {
+      "id" : 450900,
+      "pid" : 450000,
+      "layer" : 2,
+      "name" : "玉林市",
+      "fullName" : "广西壮族自治区玉林市",
+      "addrList" : [ ]
+    }, {
+      "id" : 451000,
+      "pid" : 450000,
+      "layer" : 2,
+      "name" : "百色市",
+      "fullName" : "广西壮族自治区百色市",
+      "addrList" : [ ]
+    }, {
+      "id" : 451100,
+      "pid" : 450000,
+      "layer" : 2,
+      "name" : "贺州市",
+      "fullName" : "广西壮族自治区贺州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 451200,
+      "pid" : 450000,
+      "layer" : 2,
+      "name" : "河池市",
+      "fullName" : "广西壮族自治区河池市",
+      "addrList" : [ ]
+    }, {
+      "id" : 451300,
+      "pid" : 450000,
+      "layer" : 2,
+      "name" : "来宾市",
+      "fullName" : "广西壮族自治区来宾市",
+      "addrList" : [ ]
+    }, {
+      "id" : 451400,
+      "pid" : 450000,
+      "layer" : 2,
+      "name" : "崇左市",
+      "fullName" : "广西壮族自治区崇左市",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 460000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "海南省",
+    "fullName" : "海南省",
+    "addrList" : [ {
+      "id" : 460100,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "海口市",
+      "fullName" : "海南省海口市",
+      "addrList" : [ ]
+    }, {
+      "id" : 460200,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "三亚市",
+      "fullName" : "海南省三亚市",
+      "addrList" : [ ]
+    }, {
+      "id" : 460300,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "三沙市",
+      "fullName" : "海南省三沙市",
+      "addrList" : [ ]
+    }, {
+      "id" : 460400,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "儋州市",
+      "fullName" : "海南省儋州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 469001,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "五指山市",
+      "fullName" : "海南省五指山市",
+      "addrList" : [ ]
+    }, {
+      "id" : 469002,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "琼海市",
+      "fullName" : "海南省琼海市",
+      "addrList" : [ ]
+    }, {
+      "id" : 469005,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "文昌市",
+      "fullName" : "海南省文昌市",
+      "addrList" : [ ]
+    }, {
+      "id" : 469006,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "万宁市",
+      "fullName" : "海南省万宁市",
+      "addrList" : [ ]
+    }, {
+      "id" : 469007,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "东方市",
+      "fullName" : "海南省东方市",
+      "addrList" : [ ]
+    }, {
+      "id" : 469021,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "定安县",
+      "fullName" : "海南省定安县",
+      "addrList" : [ ]
+    }, {
+      "id" : 469022,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "屯昌县",
+      "fullName" : "海南省屯昌县",
+      "addrList" : [ ]
+    }, {
+      "id" : 469023,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "澄迈县",
+      "fullName" : "海南省澄迈县",
+      "addrList" : [ ]
+    }, {
+      "id" : 469024,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "临高县",
+      "fullName" : "海南省临高县",
+      "addrList" : [ ]
+    }, {
+      "id" : 469025,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "白沙黎族自治县",
+      "fullName" : "海南省白沙黎族自治县",
+      "addrList" : [ ]
+    }, {
+      "id" : 469026,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "昌江黎族自治县",
+      "fullName" : "海南省昌江黎族自治县",
+      "addrList" : [ ]
+    }, {
+      "id" : 469027,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "乐东黎族自治县",
+      "fullName" : "海南省乐东黎族自治县",
+      "addrList" : [ ]
+    }, {
+      "id" : 469028,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "陵水黎族自治县",
+      "fullName" : "海南省陵水黎族自治县",
+      "addrList" : [ ]
+    }, {
+      "id" : 469029,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "保亭黎族苗族自治县",
+      "fullName" : "海南省保亭黎族苗族自治县",
+      "addrList" : [ ]
+    }, {
+      "id" : 469030,
+      "pid" : 460000,
+      "layer" : 2,
+      "name" : "琼中黎族苗族自治县",
+      "fullName" : "海南省琼中黎族苗族自治县",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 500000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "重庆市",
+    "fullName" : "重庆市",
+    "addrList" : [ {
+      "id" : 500100,
+      "pid" : 500000,
+      "layer" : 2,
+      "name" : "重庆市市辖区",
+      "fullName" : "重庆市市辖区",
+      "addrList" : [ ]
+    }, {
+      "id" : 500200,
+      "pid" : 500000,
+      "layer" : 2,
+      "name" : "重庆市郊县",
+      "fullName" : "重庆市郊县",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 510000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "四川省",
+    "fullName" : "四川省",
+    "addrList" : [ {
+      "id" : 510100,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "成都市",
+      "fullName" : "四川省成都市",
+      "addrList" : [ ]
+    }, {
+      "id" : 510300,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "自贡市",
+      "fullName" : "四川省自贡市",
+      "addrList" : [ ]
+    }, {
+      "id" : 510400,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "攀枝花市",
+      "fullName" : "四川省攀枝花市",
+      "addrList" : [ ]
+    }, {
+      "id" : 510500,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "泸州市",
+      "fullName" : "四川省泸州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 510600,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "德阳市",
+      "fullName" : "四川省德阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 510700,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "绵阳市",
+      "fullName" : "四川省绵阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 510800,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "广元市",
+      "fullName" : "四川省广元市",
+      "addrList" : [ ]
+    }, {
+      "id" : 510900,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "遂宁市",
+      "fullName" : "四川省遂宁市",
+      "addrList" : [ ]
+    }, {
+      "id" : 511000,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "内江市",
+      "fullName" : "四川省内江市",
+      "addrList" : [ ]
+    }, {
+      "id" : 511100,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "乐山市",
+      "fullName" : "四川省乐山市",
+      "addrList" : [ ]
+    }, {
+      "id" : 511300,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "南充市",
+      "fullName" : "四川省南充市",
+      "addrList" : [ ]
+    }, {
+      "id" : 511400,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "眉山市",
+      "fullName" : "四川省眉山市",
+      "addrList" : [ ]
+    }, {
+      "id" : 511500,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "宜宾市",
+      "fullName" : "四川省宜宾市",
+      "addrList" : [ ]
+    }, {
+      "id" : 511600,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "广安市",
+      "fullName" : "四川省广安市",
+      "addrList" : [ ]
+    }, {
+      "id" : 511700,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "达州市",
+      "fullName" : "四川省达州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 511800,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "雅安市",
+      "fullName" : "四川省雅安市",
+      "addrList" : [ ]
+    }, {
+      "id" : 511900,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "巴中市",
+      "fullName" : "四川省巴中市",
+      "addrList" : [ ]
+    }, {
+      "id" : 512000,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "资阳市",
+      "fullName" : "四川省资阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 513200,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "阿坝藏族羌族自治州",
+      "fullName" : "四川省阿坝藏族羌族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 513300,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "甘孜藏族自治州",
+      "fullName" : "四川省甘孜藏族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 513400,
+      "pid" : 510000,
+      "layer" : 2,
+      "name" : "凉山彝族自治州",
+      "fullName" : "四川省凉山彝族自治州",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 520000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "贵州省",
+    "fullName" : "贵州省",
+    "addrList" : [ {
+      "id" : 520100,
+      "pid" : 520000,
+      "layer" : 2,
+      "name" : "贵阳市",
+      "fullName" : "贵州省贵阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 520200,
+      "pid" : 520000,
+      "layer" : 2,
+      "name" : "六盘水市",
+      "fullName" : "贵州省六盘水市",
+      "addrList" : [ ]
+    }, {
+      "id" : 520300,
+      "pid" : 520000,
+      "layer" : 2,
+      "name" : "遵义市",
+      "fullName" : "贵州省遵义市",
+      "addrList" : [ ]
+    }, {
+      "id" : 520400,
+      "pid" : 520000,
+      "layer" : 2,
+      "name" : "安顺市",
+      "fullName" : "贵州省安顺市",
+      "addrList" : [ ]
+    }, {
+      "id" : 520500,
+      "pid" : 520000,
+      "layer" : 2,
+      "name" : "毕节市",
+      "fullName" : "贵州省毕节市",
+      "addrList" : [ ]
+    }, {
+      "id" : 520600,
+      "pid" : 520000,
+      "layer" : 2,
+      "name" : "铜仁市",
+      "fullName" : "贵州省铜仁市",
+      "addrList" : [ ]
+    }, {
+      "id" : 522300,
+      "pid" : 520000,
+      "layer" : 2,
+      "name" : "黔西南布依族苗族自治州",
+      "fullName" : "贵州省黔西南布依族苗族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 522600,
+      "pid" : 520000,
+      "layer" : 2,
+      "name" : "黔东南苗族侗族自治州",
+      "fullName" : "贵州省黔东南苗族侗族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 522700,
+      "pid" : 520000,
+      "layer" : 2,
+      "name" : "黔南布依族苗族自治州",
+      "fullName" : "贵州省黔南布依族苗族自治州",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 530000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "云南省",
+    "fullName" : "云南省",
+    "addrList" : [ {
+      "id" : 530100,
+      "pid" : 530000,
+      "layer" : 2,
+      "name" : "昆明市",
+      "fullName" : "云南省昆明市",
+      "addrList" : [ ]
+    }, {
+      "id" : 530300,
+      "pid" : 530000,
+      "layer" : 2,
+      "name" : "曲靖市",
+      "fullName" : "云南省曲靖市",
+      "addrList" : [ ]
+    }, {
+      "id" : 530400,
+      "pid" : 530000,
+      "layer" : 2,
+      "name" : "玉溪市",
+      "fullName" : "云南省玉溪市",
+      "addrList" : [ ]
+    }, {
+      "id" : 530500,
+      "pid" : 530000,
+      "layer" : 2,
+      "name" : "保山市",
+      "fullName" : "云南省保山市",
+      "addrList" : [ ]
+    }, {
+      "id" : 530600,
+      "pid" : 530000,
+      "layer" : 2,
+      "name" : "昭通市",
+      "fullName" : "云南省昭通市",
+      "addrList" : [ ]
+    }, {
+      "id" : 530700,
+      "pid" : 530000,
+      "layer" : 2,
+      "name" : "丽江市",
+      "fullName" : "云南省丽江市",
+      "addrList" : [ ]
+    }, {
+      "id" : 530800,
+      "pid" : 530000,
+      "layer" : 2,
+      "name" : "普洱市",
+      "fullName" : "云南省普洱市",
+      "addrList" : [ ]
+    }, {
+      "id" : 530900,
+      "pid" : 530000,
+      "layer" : 2,
+      "name" : "临沧市",
+      "fullName" : "云南省临沧市",
+      "addrList" : [ ]
+    }, {
+      "id" : 532300,
+      "pid" : 530000,
+      "layer" : 2,
+      "name" : "楚雄彝族自治州",
+      "fullName" : "云南省楚雄彝族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 532500,
+      "pid" : 530000,
+      "layer" : 2,
+      "name" : "红河哈尼族彝族自治州",
+      "fullName" : "云南省红河哈尼族彝族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 532600,
+      "pid" : 530000,
+      "layer" : 2,
+      "name" : "文山壮族苗族自治州",
+      "fullName" : "云南省文山壮族苗族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 532800,
+      "pid" : 530000,
+      "layer" : 2,
+      "name" : "西双版纳傣族自治州",
+      "fullName" : "云南省西双版纳傣族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 532900,
+      "pid" : 530000,
+      "layer" : 2,
+      "name" : "大理白族自治州",
+      "fullName" : "云南省大理白族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 533100,
+      "pid" : 530000,
+      "layer" : 2,
+      "name" : "德宏傣族景颇族自治州",
+      "fullName" : "云南省德宏傣族景颇族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 533300,
+      "pid" : 530000,
+      "layer" : 2,
+      "name" : "怒江傈僳族自治州",
+      "fullName" : "云南省怒江傈僳族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 533400,
+      "pid" : 530000,
+      "layer" : 2,
+      "name" : "迪庆藏族自治州",
+      "fullName" : "云南省迪庆藏族自治州",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 540000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "西藏自治区",
+    "fullName" : "西藏自治区",
+    "addrList" : [ {
+      "id" : 540100,
+      "pid" : 540000,
+      "layer" : 2,
+      "name" : "拉萨市",
+      "fullName" : "西藏自治区拉萨市",
+      "addrList" : [ ]
+    }, {
+      "id" : 540200,
+      "pid" : 540000,
+      "layer" : 2,
+      "name" : "日喀则市",
+      "fullName" : "西藏自治区日喀则市",
+      "addrList" : [ ]
+    }, {
+      "id" : 540300,
+      "pid" : 540000,
+      "layer" : 2,
+      "name" : "昌都市",
+      "fullName" : "西藏自治区昌都市",
+      "addrList" : [ ]
+    }, {
+      "id" : 540400,
+      "pid" : 540000,
+      "layer" : 2,
+      "name" : "林芝市",
+      "fullName" : "西藏自治区林芝市",
+      "addrList" : [ ]
+    }, {
+      "id" : 540500,
+      "pid" : 540000,
+      "layer" : 2,
+      "name" : "山南市",
+      "fullName" : "西藏自治区山南市",
+      "addrList" : [ ]
+    }, {
+      "id" : 542400,
+      "pid" : 540000,
+      "layer" : 2,
+      "name" : "那曲地区",
+      "fullName" : "西藏自治区那曲地区",
+      "addrList" : [ ]
+    }, {
+      "id" : 542500,
+      "pid" : 540000,
+      "layer" : 2,
+      "name" : "阿里地区",
+      "fullName" : "西藏自治区阿里地区",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 610000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "陕西省",
+    "fullName" : "陕西省",
+    "addrList" : [ {
+      "id" : 610100,
+      "pid" : 610000,
+      "layer" : 2,
+      "name" : "西安市",
+      "fullName" : "陕西省西安市",
+      "addrList" : [ ]
+    }, {
+      "id" : 610200,
+      "pid" : 610000,
+      "layer" : 2,
+      "name" : "铜川市",
+      "fullName" : "陕西省铜川市",
+      "addrList" : [ ]
+    }, {
+      "id" : 610300,
+      "pid" : 610000,
+      "layer" : 2,
+      "name" : "宝鸡市",
+      "fullName" : "陕西省宝鸡市",
+      "addrList" : [ ]
+    }, {
+      "id" : 610400,
+      "pid" : 610000,
+      "layer" : 2,
+      "name" : "咸阳市",
+      "fullName" : "陕西省咸阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 610500,
+      "pid" : 610000,
+      "layer" : 2,
+      "name" : "渭南市",
+      "fullName" : "陕西省渭南市",
+      "addrList" : [ ]
+    }, {
+      "id" : 610600,
+      "pid" : 610000,
+      "layer" : 2,
+      "name" : "延安市",
+      "fullName" : "陕西省延安市",
+      "addrList" : [ ]
+    }, {
+      "id" : 610700,
+      "pid" : 610000,
+      "layer" : 2,
+      "name" : "汉中市",
+      "fullName" : "陕西省汉中市",
+      "addrList" : [ ]
+    }, {
+      "id" : 610800,
+      "pid" : 610000,
+      "layer" : 2,
+      "name" : "榆林市",
+      "fullName" : "陕西省榆林市",
+      "addrList" : [ ]
+    }, {
+      "id" : 610900,
+      "pid" : 610000,
+      "layer" : 2,
+      "name" : "安康市",
+      "fullName" : "陕西省安康市",
+      "addrList" : [ ]
+    }, {
+      "id" : 611000,
+      "pid" : 610000,
+      "layer" : 2,
+      "name" : "商洛市",
+      "fullName" : "陕西省商洛市",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 620000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "甘肃省",
+    "fullName" : "甘肃省",
+    "addrList" : [ {
+      "id" : 620100,
+      "pid" : 620000,
+      "layer" : 2,
+      "name" : "兰州市",
+      "fullName" : "甘肃省兰州市",
+      "addrList" : [ ]
+    }, {
+      "id" : 620200,
+      "pid" : 620000,
+      "layer" : 2,
+      "name" : "嘉峪关市",
+      "fullName" : "甘肃省嘉峪关市",
+      "addrList" : [ ]
+    }, {
+      "id" : 620300,
+      "pid" : 620000,
+      "layer" : 2,
+      "name" : "金昌市",
+      "fullName" : "甘肃省金昌市",
+      "addrList" : [ ]
+    }, {
+      "id" : 620400,
+      "pid" : 620000,
+      "layer" : 2,
+      "name" : "白银市",
+      "fullName" : "甘肃省白银市",
+      "addrList" : [ ]
+    }, {
+      "id" : 620500,
+      "pid" : 620000,
+      "layer" : 2,
+      "name" : "天水市",
+      "fullName" : "甘肃省天水市",
+      "addrList" : [ ]
+    }, {
+      "id" : 620600,
+      "pid" : 620000,
+      "layer" : 2,
+      "name" : "武威市",
+      "fullName" : "甘肃省武威市",
+      "addrList" : [ ]
+    }, {
+      "id" : 620700,
+      "pid" : 620000,
+      "layer" : 2,
+      "name" : "张掖市",
+      "fullName" : "甘肃省张掖市",
+      "addrList" : [ ]
+    }, {
+      "id" : 620800,
+      "pid" : 620000,
+      "layer" : 2,
+      "name" : "平凉市",
+      "fullName" : "甘肃省平凉市",
+      "addrList" : [ ]
+    }, {
+      "id" : 620900,
+      "pid" : 620000,
+      "layer" : 2,
+      "name" : "酒泉市",
+      "fullName" : "甘肃省酒泉市",
+      "addrList" : [ ]
+    }, {
+      "id" : 621000,
+      "pid" : 620000,
+      "layer" : 2,
+      "name" : "庆阳市",
+      "fullName" : "甘肃省庆阳市",
+      "addrList" : [ ]
+    }, {
+      "id" : 621100,
+      "pid" : 620000,
+      "layer" : 2,
+      "name" : "定西市",
+      "fullName" : "甘肃省定西市",
+      "addrList" : [ ]
+    }, {
+      "id" : 621200,
+      "pid" : 620000,
+      "layer" : 2,
+      "name" : "陇南市",
+      "fullName" : "甘肃省陇南市",
+      "addrList" : [ ]
+    }, {
+      "id" : 622900,
+      "pid" : 620000,
+      "layer" : 2,
+      "name" : "临夏回族自治州",
+      "fullName" : "甘肃省临夏回族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 623000,
+      "pid" : 620000,
+      "layer" : 2,
+      "name" : "甘南藏族自治州",
+      "fullName" : "甘肃省甘南藏族自治州",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 630000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "青海省",
+    "fullName" : "青海省",
+    "addrList" : [ {
+      "id" : 630100,
+      "pid" : 630000,
+      "layer" : 2,
+      "name" : "西宁市",
+      "fullName" : "青海省西宁市",
+      "addrList" : [ ]
+    }, {
+      "id" : 630200,
+      "pid" : 630000,
+      "layer" : 2,
+      "name" : "海东市",
+      "fullName" : "青海省海东市",
+      "addrList" : [ ]
+    }, {
+      "id" : 632200,
+      "pid" : 630000,
+      "layer" : 2,
+      "name" : "海北藏族自治州",
+      "fullName" : "青海省海北藏族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 632300,
+      "pid" : 630000,
+      "layer" : 2,
+      "name" : "黄南藏族自治州",
+      "fullName" : "青海省黄南藏族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 632500,
+      "pid" : 630000,
+      "layer" : 2,
+      "name" : "海南藏族自治州",
+      "fullName" : "青海省海南藏族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 632600,
+      "pid" : 630000,
+      "layer" : 2,
+      "name" : "果洛藏族自治州",
+      "fullName" : "青海省果洛藏族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 632700,
+      "pid" : 630000,
+      "layer" : 2,
+      "name" : "玉树藏族自治州",
+      "fullName" : "青海省玉树藏族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 632800,
+      "pid" : 630000,
+      "layer" : 2,
+      "name" : "海西蒙古族藏族自治州",
+      "fullName" : "青海省海西蒙古族藏族自治州",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 640000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "宁夏回族自治区",
+    "fullName" : "宁夏回族自治区",
+    "addrList" : [ {
+      "id" : 640100,
+      "pid" : 640000,
+      "layer" : 2,
+      "name" : "银川市",
+      "fullName" : "宁夏回族自治区银川市",
+      "addrList" : [ ]
+    }, {
+      "id" : 640200,
+      "pid" : 640000,
+      "layer" : 2,
+      "name" : "石嘴山市",
+      "fullName" : "宁夏回族自治区石嘴山市",
+      "addrList" : [ ]
+    }, {
+      "id" : 640300,
+      "pid" : 640000,
+      "layer" : 2,
+      "name" : "吴忠市",
+      "fullName" : "宁夏回族自治区吴忠市",
+      "addrList" : [ ]
+    }, {
+      "id" : 640400,
+      "pid" : 640000,
+      "layer" : 2,
+      "name" : "固原市",
+      "fullName" : "宁夏回族自治区固原市",
+      "addrList" : [ ]
+    }, {
+      "id" : 640500,
+      "pid" : 640000,
+      "layer" : 2,
+      "name" : "中卫市",
+      "fullName" : "宁夏回族自治区中卫市",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 650000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "新疆维吾尔自治区",
+    "fullName" : "新疆维吾尔自治区",
+    "addrList" : [ {
+      "id" : 650100,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "乌鲁木齐市",
+      "fullName" : "新疆维吾尔自治区乌鲁木齐市",
+      "addrList" : [ ]
+    }, {
+      "id" : 650200,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "克拉玛依市",
+      "fullName" : "新疆维吾尔自治区克拉玛依市",
+      "addrList" : [ ]
+    }, {
+      "id" : 650400,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "吐鲁番市",
+      "fullName" : "新疆维吾尔自治区吐鲁番市",
+      "addrList" : [ ]
+    }, {
+      "id" : 650500,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "哈密市",
+      "fullName" : "新疆维吾尔自治区哈密市",
+      "addrList" : [ ]
+    }, {
+      "id" : 652300,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "昌吉回族自治州",
+      "fullName" : "新疆维吾尔自治区昌吉回族自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 652700,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "博尔塔拉蒙古自治州",
+      "fullName" : "新疆维吾尔自治区博尔塔拉蒙古自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 652800,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "巴音郭楞蒙古自治州",
+      "fullName" : "新疆维吾尔自治区巴音郭楞蒙古自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 652900,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "阿克苏地区",
+      "fullName" : "新疆维吾尔自治区阿克苏地区",
+      "addrList" : [ ]
+    }, {
+      "id" : 653000,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "克孜勒苏柯尔克孜自治州",
+      "fullName" : "新疆维吾尔自治区克孜勒苏柯尔克孜自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 653100,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "喀什地区",
+      "fullName" : "新疆维吾尔自治区喀什地区",
+      "addrList" : [ ]
+    }, {
+      "id" : 653200,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "和田地区",
+      "fullName" : "新疆维吾尔自治区和田地区",
+      "addrList" : [ ]
+    }, {
+      "id" : 654000,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "伊犁哈萨克自治州",
+      "fullName" : "新疆维吾尔自治区伊犁哈萨克自治州",
+      "addrList" : [ ]
+    }, {
+      "id" : 654200,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "塔城地区",
+      "fullName" : "新疆维吾尔自治区塔城地区",
+      "addrList" : [ ]
+    }, {
+      "id" : 654300,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "阿勒泰地区",
+      "fullName" : "新疆维吾尔自治区阿勒泰地区",
+      "addrList" : [ ]
+    }, {
+      "id" : 659001,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "石河子市",
+      "fullName" : "新疆维吾尔自治区石河子市",
+      "addrList" : [ ]
+    }, {
+      "id" : 659002,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "阿拉尔市",
+      "fullName" : "新疆维吾尔自治区阿拉尔市",
+      "addrList" : [ ]
+    }, {
+      "id" : 659003,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "图木舒克市",
+      "fullName" : "新疆维吾尔自治区图木舒克市",
+      "addrList" : [ ]
+    }, {
+      "id" : 659004,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "五家渠市",
+      "fullName" : "新疆维吾尔自治区五家渠市",
+      "addrList" : [ ]
+    }, {
+      "id" : 659005,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "北屯市",
+      "fullName" : "新疆维吾尔自治区北屯市",
+      "addrList" : [ ]
+    }, {
+      "id" : 659006,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "铁门关市",
+      "fullName" : "新疆维吾尔自治区铁门关市",
+      "addrList" : [ ]
+    }, {
+      "id" : 659007,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "双河市",
+      "fullName" : "新疆维吾尔自治区双河市",
+      "addrList" : [ ]
+    }, {
+      "id" : 659008,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "可克达拉市",
+      "fullName" : "新疆维吾尔自治区可克达拉市",
+      "addrList" : [ ]
+    }, {
+      "id" : 659009,
+      "pid" : 650000,
+      "layer" : 2,
+      "name" : "昆玉市",
+      "fullName" : "新疆维吾尔自治区昆玉市",
+      "addrList" : [ ]
+    } ]
+  }, {
+    "id" : 710000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "台湾省",
+    "fullName" : "台湾省",
+    "addrList" : [ ]
+  }, {
+    "id" : 810000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "香港特别行政区",
+    "fullName" : "香港特别行政区",
+    "addrList" : [ ]
+  }, {
+    "id" : 820000,
+    "pid" : 0,
+    "layer" : 1,
+    "name" : "澳门特别行政区",
+    "fullName" : "澳门特别行政区",
+    "addrList" : [ ]
+  } ]
+}
