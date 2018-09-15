@@ -7,3 +7,6 @@
 ### voice
 + http://www.kugou.com/yy/static/images/play/voice.gif
 + http://www.kuwo.cn/static/image/singles/gif.gif
+
+## i4-spinner:
++ https://m.i4.cn/img/ringtones_list_downloading_white.png
